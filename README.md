@@ -55,12 +55,12 @@ After running the training script, the project structure will be as follows:
 └── reptile.py                # Crawler script
 ```
 After training the model,you can see the results images.You can intuitive monitoring the model performance.
-![Attention heatmap]("https://github.com/user-attachments/assets/36dda1b4-543e-4af3-af1a-271dc867ba5b")
-![Training metrics]("https://github.com/user-attachments/assets/5ea0c11a-87b0-470f-96a0-e2b06b42c1fe")
+<p align="center"><img src="https://github.com/user-attachments/assets/36dda1b4-543e-4af3-af1a-271dc867ba5b" width="500" height="431"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/5ea0c11a-87b0-470f-96a0-e2b06b42c1fe" width="500" height="431"></p>
 In addition to the training metrics,you can see the test set comparison charts.
-![Comparison]("https://github.com/user-attachments/assets/2d720145-f8fc-4bb8-a13c-9080cb3d8c03")
+<p align="center"><img src="https://github.com/user-attachments/assets/2d720145-f8fc-4bb8-a13c-9080cb3d8c03" width="500" height="431"></p>
 And you can see the results images.
-![results]("https://github.com/user-attachments/assets/8079a77c-5300-4ee5-a935-6f0b81f36bf9")
+<p align="center"><img src="https://github.com/user-attachments/assets/8079a77c-5300-4ee5-a935-6f0b81f36bf9" width="500" height="431"></p>
 ## File Description
 
 | File Path | Description |
